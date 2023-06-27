@@ -1,0 +1,39 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 250px;
+    width: 250px;
+    margin: 50px;
+}
+
+.button {
+    margin-top: 5px;
+}
+
+.user {
+    background-color: rgb(87, 81, 81);
+    vertical-align: middle;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.text {
+    font-size: 100px;
+    text-align: center;
+    color: white;
+    padding: 30px;
+}
+
+.in {
+    display: inline;
+    width: 100%;
+}

@@ -1,0 +1,17 @@
+.cart-enter {
+  opacity: 0;
+}
+
+.cart-enter-active {
+  opacity: 1;
+  transition: opacity 300ms;
+}
+
+.cart-exit {
+  opacity: 1;
+}
+
+.cart-exit-active {
+  opacity: 0;
+  transition: opacity 300ms;
+}
